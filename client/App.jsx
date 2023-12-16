@@ -2,6 +2,8 @@ import React from "react";
 
 export default function App() {
   return (
-    <h1>HELLO</h1>
+    <div id='container'>
+      <h1>BUILD</h1>
+    </div>
   );
 };

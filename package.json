@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a-hend/lifehx.git"
+    "url": "git+https://github.com/a-hend/BUILD.git"
   },
   "author": "Abe Henderson",
   "license": "ISC",
   "bugs": {
   },
-  "homepage": "https://github.com/a-hend/lifehx/blob/main/README.md",
+  "homepage": "https://github.com/a-hend/BUILD/blob/main/README.md",
   "dependencies": {
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.20.2",
