@@ -1,7 +1,7 @@
 {
-  "name": "lifehack",
+  "name": "build",
   "version": "1.0.0",
-  "description": "An app to learn and share lifehacks.",
+  "description": "A JavaScript/React/Node/Express application template.",
   "main": "webpack.config.js",
   "scripts": {
     "start": "node server/server.js",
@@ -12,14 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danger-noodles-58/lifehack.git"
+    "url": "git+https://github.com/a-hend/lifehx.git"
   },
-  "author": "Abe Henderson, Daniel Park, George Greer, Adrian Kormier",
+  "author": "Abe Henderson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danger-noodles-58/lifehack/issues"
   },
-  "homepage": "https://github.com/danger-noodles-58/lifehack/blob/main/README.md",
+  "homepage": "https://github.com/a-hend/lifehx/blob/main/README.md",
   "dependencies": {
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.20.2",

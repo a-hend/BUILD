@@ -11,7 +11,3 @@ root.render(
         <App />    
     </BrowserRouter>
 );
-
-/* from the webpack
-plugins: ['@babel/plugin-transform-runtime', '@babel/transform-async-to-generator'],
-*/
